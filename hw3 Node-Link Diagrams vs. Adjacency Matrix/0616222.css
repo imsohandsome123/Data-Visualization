@@ -1,0 +1,26 @@
+.grid {
+  stroke: #C0C0BB;
+	fill: #000000;
+} 
+  
+div{
+	position: absolute;
+  left: 460px;
+  top: -50px;
+}
+
+.title{
+  fill: #635F5D;
+  font-family: sans-serif;
+  font-size: 1.4em;
+}
+.left_title{
+  fill: #635F5D;
+  font-family: sans-serif;
+  font-size: 3.15em;
+}
+.row_column{
+  fill: #635F5D;
+  font-family: sans-serif;
+  font-size: 0.8em;
+}
